@@ -1,12 +1,12 @@
 # Keyboard4x3
-<space><space>File Mô tả linh kiện, PCB, Case, app nạp code
-<space><space>Các bộ phận
-<space><space>PCB tùy chỉnh Ocreeb
-<space><space>Bảng KB2040
-<space><space>12 × Điốt (SOD-123)
-<space><space>Công tắc kiểu 12 × Cherry
-<space><space>Mũ phím kiểu 12 × DSA.
-<space><space>Bộ mã hóa 2 × (PEC11R).
+<space>File Mô tả linh kiện, PCB, Case, app nạp code<space><space>
+<space>Các bộ phận<space><space>
+<space><space>PCB tùy chỉnh Ocreeb<space><space>
+<space><space>Bảng KB2040<space><space>
+<space><space>12 × Điốt (SOD-123)<space><space>
+<space><space>Công tắc kiểu 12 × Cherry<space><space>
+<space><space>Mũ phím kiểu 12 × DSA.<space><space>
+<space><space>Bộ mã hóa 2 × (PEC11R).<space><space>
 <space><space>4 × Neopixel 5050 (SK6812 hoặc WS2812 _ 5 mm × 5 mm)
 <space><space>Tụ điện 4 × 0,1 µF 0603 (1608 Metric).
 <space><space>1 × Bộ chuyển mức SOT-23-5.
