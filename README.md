@@ -1,6 +1,5 @@
 # Keyboard4x3
-1. danh sách
-  **File Mô tả linh kiện, PCB, Case, app nạp code**
+1. danh sách **File Mô tả linh kiện, PCB, Case, app nạp code**
   ~Các bộ phận~  
 sssssssssssssssssasPCB tùy chỉnh OcreebP
 <https://shopee.vn/shopcntechnologycomputer>
