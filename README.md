@@ -1,6 +1,6 @@
 # Keyboard4x3
-<space>File Mô tả linh kiện, PCB, Case, app nạp code<space><space>
-<space>Các bộ phận<space><space>
+<File Mô tả linh kiện, PCB, Case, app nạp code>
+<Các bộ phận>
 <space><space>PCB tùy chỉnh Ocreeb<space><space>
 <space><space>Bảng KB2040<space><space>
 <space><space>12 × Điốt (SOD-123)<space><space>
