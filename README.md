@@ -1,7 +1,9 @@
 # Keyboard4x3
   **File Mô tả linh kiện, PCB, Case, app nạp code**
-  ~Các bộ phận~
-<space><space>PCB tùy chỉnh Ocreeb<space><space>
+  ~Các bộ phận~  
+sssssssssssssssssasPCB tùy chỉnh OcreebP
+<https://shopee.vn/shopcntechnologycomputer>
+
 <space><space>Bảng KB2040<space><space>
 <space><space>12 × Điốt (SOD-123)<space><space>
 <space><space>Công tắc kiểu 12 × Cherry<space><space>
