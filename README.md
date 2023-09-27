@@ -1,8 +1,8 @@
 # Keyboard4x3
 File Mô tả linh kiện, PCB, Case, app nạp code
-# Các bộ phận
- # PCB tùy chỉnh Ocreeb
-# Bảng KB2040
+Các bộ phận
+PCB tùy chỉnh Ocreeb
+Bảng KB2040
 12 × Điốt (SOD-123)
 Công tắc kiểu 12 × Cherry
 Mũ phím kiểu 12 × DSA.
